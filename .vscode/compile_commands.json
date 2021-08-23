@@ -1,0 +1,6 @@
+[
+{
+  "directory": "D:\\Cdir\\xmakePybindForWin",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30037\\bin\\HostX64\\x64\\cl.exe", "/c", "/EHsc", "/nologo", "/IC:\\Users\\PengLi\\AppData\\Local\\.xmake\\packages\\p\\pybind11\\v2.7.1\\0ccc295b5c774492bbe6b6f5628a796d\\include", "/IC:\\Users\\PengLi\\AppData\\Local\\.xmake\\packages\\p\\python\\3.9.6\\7f012ab6adf64a85be8cf4480051f442\\include", "/Fobuild\\.objs\\example\\windows\\x64\\release\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+}]
